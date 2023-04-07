@@ -1,14 +1,3 @@
-{
-    "accuracy": [
-        0.9132569558101473
-    ],
-    "auc": [
-        0.9450046640290777
-    ],
-    "f1": [
-        0.7905138339920948
-    ],
-    "mcc": [
-        0.7360738024621297
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:531dbba6acab82ec6ff35cec9a45581fd260f5731680906e7200dfbc2c225d1c
+size 194

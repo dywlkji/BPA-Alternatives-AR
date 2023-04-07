@@ -1,20 +1,3 @@
-Fold 0
-Model 0 best validation accuracy = 0.925455 on epoch 32
-Model 0 test accuracy = 0.898527
-Model 0 test auc = 0.913178
-Model 0 test f1 = 0.725664
-Model 0 test mcc = 0.676641
-Ensemble test accuracy = 0.898527
-Ensemble test auc = 0.913178
-Ensemble test f1 = 0.725664
-Ensemble test mcc = 0.676641
-1-fold cross validation
-	Seed 0 ==> test accuracy = 0.898527
-	Seed 0 ==> test auc = 0.913178
-	Seed 0 ==> test f1 = 0.725664
-	Seed 0 ==> test mcc = 0.676641
-Overall test accuracy = 0.898527 +/- 0.000000
-Overall test auc = 0.913178 +/- 0.000000
-Overall test f1 = 0.725664 +/- 0.000000
-Overall test mcc = 0.676641 +/- 0.000000
-Elapsed time = 0:20:10
+version https://git-lfs.github.com/spec/v1
+oid sha256:116ea982cd40146a96379b2962fcc7727f4bf835cd4301ff497eda2611b922a0
+size 646

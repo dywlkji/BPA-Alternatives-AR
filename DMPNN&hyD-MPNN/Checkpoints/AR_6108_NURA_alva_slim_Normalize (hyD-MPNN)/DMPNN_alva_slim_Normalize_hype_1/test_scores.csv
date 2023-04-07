@@ -1,2 +1,3 @@
-Task,Mean accuracy,Standard deviation accuracy,Fold 0 accuracy,Mean auc,Standard deviation auc,Fold 0 auc,Mean f1,Standard deviation f1,Fold 0 f1,Mean mcc,Standard deviation mcc,Fold 0 mcc
-activity,0.9067103109656302,0.0,0.9067103109656302,0.9263389470490062,0.0,0.9263389470490062,0.7219512195121952,0.0,0.7219512195121952,0.6660214086819755,0.0,0.6660214086819755
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba7094be10b65ce395fe9807f47cdae862785d0a03ed2a5ae3a9bfeacb5162b3
+size 368

@@ -1,0 +1,2 @@
+Task,Mean accuracy,Standard deviation accuracy,Fold 0 accuracy,Mean auc,Standard deviation auc,Fold 0 auc,Mean f1,Standard deviation f1,Fold 0 f1,Mean mcc,Standard deviation mcc,Fold 0 mcc
+activity,0.900163666121113,0.0,0.900163666121113,0.921441551698561,0.0,0.921441551698561,0.6965174129353233,0.0,0.6965174129353233,0.6389851159420197,0.0,0.6389851159420197

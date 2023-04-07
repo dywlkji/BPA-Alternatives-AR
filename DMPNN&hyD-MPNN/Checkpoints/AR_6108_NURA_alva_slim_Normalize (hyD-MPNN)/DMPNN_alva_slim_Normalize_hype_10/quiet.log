@@ -1,0 +1,20 @@
+Fold 0
+Model 0 best validation accuracy = 0.932727 on epoch 19
+Model 0 test accuracy = 0.918167
+Model 0 test auc = 0.935976
+Model 0 test f1 = 0.770642
+Model 0 test mcc = 0.725874
+Ensemble test accuracy = 0.918167
+Ensemble test auc = 0.935976
+Ensemble test f1 = 0.770642
+Ensemble test mcc = 0.725874
+1-fold cross validation
+	Seed 0 ==> test accuracy = 0.918167
+	Seed 0 ==> test auc = 0.935976
+	Seed 0 ==> test f1 = 0.770642
+	Seed 0 ==> test mcc = 0.725874
+Overall test accuracy = 0.918167 +/- 0.000000
+Overall test auc = 0.935976 +/- 0.000000
+Overall test f1 = 0.770642 +/- 0.000000
+Overall test mcc = 0.725874 +/- 0.000000
+Elapsed time = 0:11:49

@@ -13,7 +13,7 @@ This code is based on the following works：
 * **6_pre_32_AR_剔除NURA重复数据.csv**：EVS deduplication dataset.
 - **Checkpoints**：D-MPNN operation checkpoints in this study.
 * **Config**：Hyperparameters.
-- **Features**：The fusion features used in hyD-MPNN include the total alva descriptors dataset and the dataset divided into 10 seeds in this study.
+- **Features**：The fusion features used in hyD-MPNN include the total alva descriptors dataset and the dataset divided into 10 seeds
 * **Predict**：Prediction results for EVS.
 - **Metric_Chemporp.ipynb**：A tool script for summarizing prediction results.
 * **计算Pubchem和MACC.ipynb**：A tool script to calculate Pubchem and MACC.

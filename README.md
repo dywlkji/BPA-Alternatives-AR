@@ -11,9 +11,9 @@ This code is based on the following works：
 #### DMPNN&hyD-MPNN：This includes all the operation manuscript data and feature data of DMPNN and hyD-MPNN in this study.
 - **5_AR_6108_NURA_chemprop.csv**：NuRA-AR’s SMILES dataset.
 * **Features**：The fusion features used in hyD-MPNN include the total alva descriptors dataset and the dataset divided into 10 seeds.
-* **Metric_Chemporp.ipynb**：A tool script for summarizing prediction results.
-- **get_pubchem_macc.ipynb**：A tool script to calculate Pubchem and MACC.
-* **Running script examples**：
+- **Metric_Chemporp.ipynb**：A tool script for summarizing prediction results.
+* **get_pubchem_macc.ipynb**：A tool script to calculate Pubchem and MACC.
+- **Running script examples**：
  ```
 # D-MPNN
 chemprop_hyperopt --dataset_type classification --num_iters 300 --data_path 5_AR_6108_NURA_chemprop.csv --config_save_path Config/config_AR_6108.json

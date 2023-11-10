@@ -12,7 +12,7 @@ This code is based on the following works：
 - **5_AR_6108_NURA_chemprop.csv**：NuRA-AR’s SMILES dataset.
 * **Features**：The fusion features used in hyD-MPNN include the total alva descriptors dataset and the dataset divided into 10 seeds
 * **Metric_Chemporp.ipynb**：A tool script for summarizing prediction results.
-- **计算Pubchem和MACC.ipynb**：A tool script to calculate Pubchem and MACC.
+- **get_pubchem_macc.ipynb**：A tool script to calculate Pubchem and MACC.
 * **Running script examples**：
  ```
 # D-MPNN

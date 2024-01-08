@@ -3,7 +3,7 @@ source /home/admin/anaconda3/bin/activate chemprop &&
 conda activate chemprop && 
 conda install rdkit -c https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/rdkit &&
 conda install git &&
-#pip install git+https://github.com/bp-kelley/descriptastorus &&
+pip install git+https://github.com/bp-kelley/descriptastorus &&
 #If you cannot access Git to download the GitHub library, execute "python setup.py sdist" and then "cd dist" and execute "pip install xxx.tar.gz".
 pip install -i https://mirrors.ustc.edu.cn/pypi/web/simple pip -U &&
 pip config set global.index-url https://mirrors.ustc.edu.cn/pypi/web/simple &&
